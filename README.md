@@ -1,4 +1,4 @@
-# Project- 2: Backend-API-Development
+# Full Stack Development Internship - Project 2: Backend API Development 
 # 🚀 Backend API Development
 
 A simple backend API project built with **Node.js** and **Express.js**. This project helps manage data, connect to a database, and handle requests from the frontend.
